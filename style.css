@@ -1,0 +1,15 @@
+header {
+	background:#854c1b;
+
+	padding: 20px 0;
+}
+
+.container {
+	width: 940px;
+    margin: 0 auto;
+	
+}
+
+.container img {
+    width: 170px;
+}
