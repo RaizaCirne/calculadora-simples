@@ -13,41 +13,41 @@ Definição de etapas:
     - [x] HTML 
         - [x] header com logo e conteúdos com listas clicáveis para 3 páginas 
         - [x] main com caixa de serviços com listas clicáveis para 4 páginas
- - [x] CSS
+        - [x] CSS
     
  - [ ] Primeira página do header 
     - [ ] Imagens
     - [ ] Conteúdo com imagens, títulos e parágrafos 
     - [ ] footer com logo
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Segunda página do header
     - [ ] Galeria com imagens
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Terceira página do header
     - [ ] Contato
     - [ ] Campo para preenchimento de dados
     - [ ] Campo de localização com mapa
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Primeira página do main
     - [ ] Imagem 
     - [ ] Títulos e parágrafos 
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Segunda página do main
     - [ ] Imagem 
     - [ ] Títulos e parágrafos 
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Terceira página do main
     - [ ] Imagem 
     - [ ] Títulos e parágrafos 
-- [ ] CSS
+    - [ ] CSS
 
 - [ ] Quarta página do main
     - [ ] Imagem 
     - [ ] Títulos e parágrafos 
-- [ ] CSS
+    - [ ] CSS
 
