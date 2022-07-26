@@ -15,11 +15,11 @@ Definição de etapas:
     - [x] main com caixa de serviços com listas clicáveis para 4 páginas
     - [x] CSS
     
- - [] Primeira página do header 
-    - [] Imagens
-    - [] Conteúdo com imagens, títulos e parágrafos 
-    - [] footer com logo
-    - [] CSS
+ - [ ] Primeira página do header 
+    - [ ] Imagens
+    - [ ] Conteúdo com imagens, títulos e parágrafos 
+    - [ ] footer com logo
+    - [ ] CSS
 
 [] Segunda página do header
     [] Galeria com imagens
