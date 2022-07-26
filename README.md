@@ -10,10 +10,10 @@ Definição de etapas:
 - [x] Definição de conteúdo de títulos e parágrafos
 
 - [x] Página principal 
-- [x] HTML 
-- [x] header com logo e conteúdos com listas clicáveis para 3 páginas 
-- [x] main com caixa de serviços com listas clicáveis para 4 páginas
-- [x] CSS
+    - [x] HTML 
+    - [x] header com logo e conteúdos com listas clicáveis para 3 páginas 
+    - [x] main com caixa de serviços com listas clicáveis para 4 páginas
+    - [x] CSS
 
 [] Primeira página do header 
     [] Imagens
