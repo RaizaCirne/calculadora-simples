@@ -39,8 +39,6 @@ Aplicação de uma calculadora utilizando HTML, CSS e JavaScript.
 
 #### Construído com:
 
-<br />
-
 - Integração HTML, CSS e JavaScript: Aprendizado sobre como essas tecnologias se integram para criar uma aplicação web funcional.
 
 - Manipulação do DOM: Como manipular o Document Object Model (DOM) para interagir dinamicamente com os elementos HTML.
@@ -59,7 +57,7 @@ Aplicação de uma calculadora utilizando HTML, CSS e JavaScript.
 
 ## :video_camera: Video
 
-https://github.com/RaizaCirne/controle-lampada/assets/109912543/59c40d46-e07a-4651-84d6-15728d9a7a1b
+https://github.com/RaizaCirne/calculadora-simples/assets/109912543/41db9dd5-90d4-4d8e-9e9c-b221652c08af
 
 ## :desktop_computer: Desktop design
 
