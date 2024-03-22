@@ -11,6 +11,12 @@ body .container {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+@media only screen and (max-width: 767px) {
+  body .container {
+    height: 350px;
+    width: 350px;
+  }
+}
 body .container h1 {
   color: #EEEEEE;
   font-weight: 600;
@@ -19,6 +25,11 @@ body .container h1 {
   text-align: center;
   text-transform: uppercase;
   font-weight: bold;
+}
+@media only screen and (max-width: 767px) {
+  body .container h1 {
+    font-size: 1.4rem;
+  }
 }
 body .container .numero-digitado {
   background-color: #EEEEEE;
@@ -30,6 +41,12 @@ body .container .numero-digitado {
   padding: 1.2rem;
   width: 400px;
 }
+@media only screen and (max-width: 767px) {
+  body .container .numero-digitado {
+    padding: 0.5rem;
+    width: 250px;
+  }
+}
 body .container .checks {
   display: flex;
   justify-content: center;
@@ -40,6 +57,12 @@ body .container .checks input {
   margin: 0.7rem;
   height: 30px;
   width: 30px;
+}
+@media only screen and (max-width: 767px) {
+  body .container .checks input {
+    height: 20px;
+    width: 20px;
+  }
 }
 body .container .checks b {
   color: #EEEEEE;
@@ -57,4 +80,10 @@ body .container button {
   margin: 0 auto;
   padding: 1rem 5rem;
   text-transform: uppercase;
+}
+@media only screen and (max-width: 767px) {
+  body .container button {
+    font-size: 1rem;
+    padding: 0.5rem 3rem;
+  }
 }/*# sourceMappingURL=main.css.map */

@@ -1,3 +1,5 @@
+@import 'mixins';
+
 body {
   background: #31363F;
 
@@ -11,6 +13,10 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    @include d(m) {
+      height: 350px;
+      width: 350px;
+    }
 
     h1 {
       color: #EEEEEE;
@@ -20,6 +26,9 @@ body {
       text-align: center;
       text-transform: uppercase;
       font-weight: bold;
+      @include d(m) {
+        font-size: 1.4rem;
+      }
     }
 
     .numero-digitado {
@@ -31,6 +40,10 @@ body {
       margin: 0 auto;
       padding: 1.2rem;
       width: 400px;
+      @include d(m) {
+        padding: .5rem;
+        width: 250px;
+      }
     }
 
     .checks {
@@ -43,6 +56,10 @@ body {
         margin: .7rem;
         height: 30px;
         width: 30px;
+        @include d(m) {
+          height: 20px;
+          width: 20px;
+        }
       }
       b {
         color: #EEEEEE;
@@ -62,6 +79,10 @@ body {
       margin: 0 auto;
       padding: 1rem 5rem;
       text-transform: uppercase;
+      @include d(m) {
+        font-size: 1rem;
+        padding: .5rem 3rem;
+      }
     }
   }
 }
