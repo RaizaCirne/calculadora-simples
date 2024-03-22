@@ -73,7 +73,7 @@ https://github.com/RaizaCirne/calculadora-simples/assets/109912543/41db9dd5-90d4
 
 <br />
 
-- Para acessar o site [Clique aqui](#)
+- Para acessar o site [Clique aqui](https://65fde5293ad3b65b582b935f--majestic-flan-06a904.netlify.app/)
 
 <br />
 
@@ -120,7 +120,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](#)
+- Personal Page - [Raíza Cirne Braz](https://65fde5293ad3b65b582b935f--majestic-flan-06a904.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
