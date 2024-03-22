@@ -4,8 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Calculadora Simples</title>
+  <link rel="stylesheet" href="css/main.min.css">
 </head>
 <body>
+  <div class="container">
+    <h1>Calculadora Simples</h1>
+    <input class="numero-digitado" type="text" name="numero-um" id="numero-um">
+    <input class="numero-digitado" type="text" name="numero-dois" id="numero-dois">
+
+    <div class="checks">
+      <input checked type="radio" name="opcoes" id="opcao1" value="somar"><b>+</b>
+      <input type="radio" name="opcoes" id="opcao2" value="subtrair"><b>-</b>
+      <input type="radio" name="opcoes" id="opcao3" value="multiplicar"><b>*</b>
+      <input type="radio" name="opcoes" id="opcao4" value="dividir"><b>/</b>
+    </div>
+    <button onclick="calcular()" type="button">Calcular</button>
+    <h2 id="resultado"></h2>
+  </div>
   
 </body>
 </html>
