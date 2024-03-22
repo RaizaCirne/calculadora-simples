@@ -13,7 +13,7 @@ body .container {
 }
 @media only screen and (max-width: 767px) {
   body .container {
-    height: 350px;
+    height: 450px;
     width: 350px;
   }
 }
@@ -86,4 +86,11 @@ body .container button {
     font-size: 1rem;
     padding: 0.5rem 3rem;
   }
+}
+body .container #resultado {
+  color: #EEEEEE;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
