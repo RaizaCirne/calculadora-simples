@@ -24,7 +24,7 @@ Aplicação de uma calculadora utilizando HTML, CSS e JavaScript.
 
 ## :trophy: Desafio <a name="#id03"></a>
 
-- Entrada de Dados: O usuário insere dois números nos campos de entrada. Seleciona a operação desejada (adição, subtração, multiplicação ou divisão) através dos botões de rádio.
+- Entrada de Dados: O usuário insere dois números nos campos de entrada. Seleciona a operação desejada (adição, subtração, multiplicação ou divisão) através dos botões.
 
 - Cálculo:
   Com base na operação selecionada, realiza a operação matemática apropriada entre os dois números.
